@@ -1,0 +1,267 @@
+/*
+Theme Name: LMS Education University
+Description: LMS Education University is a good choice for any education-related website. This theme is ideal for building an online learning platform, a university, a college, tuition, elementary and secondary schools, a coaching center, book sales, a library, vocational training, scholarships, workshops, a course hub, an online acting school, or a kindergarten. This multipurpose education WordPress theme is built on the Bootstrap framework, making it extremely easy to use. It is an SEO-friendly theme that can help your website rank higher in major search engines such as Google. The theme works with a variety of learning management systems (LMS), including LearnPress, Tutor LMS, Sensei, and MasterStudy, so you can quickly develop and manage online courses. You can use shortcodes to improve the functionality of your site, and the clean and safe code ensures smooth performance. It is mobile-friendly and properly fits all device screen sizes thanks to its responsive WordPress theme layout. It is translation-ready and supports RTL layouts, making it suitable for a global audience. The theme is also speed tuned, ensuring that pages load quickly and without issues. User-friendliness is an important element, with many choices for modification and customizing. The social media integration option enables you to link all of your social media pages, highlighting your institute's popularity. The design is modern, opulent, smart, visually appealing, and retina-ready. A testimonial section allows visitors to post comments and evaluations about your institute, which helps to increase credibility. Achieve milestones using this.
+Author: misbahwp
+Theme URI: https://www.misbahwp.com/products/free-university-wordpress-theme
+Author URI: https://www.misbahwp.com/
+Template: lms-education
+Version: 5.9
+Requires PHP: 7.2
+Tested up to: 6.7
+Requires at least: 5.0
+Tags: blog, education, e-commerce, wide-blocks, one-column, two-columns, three-columns, four-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, editor-style, post-formats, theme-options, threaded-comments, rtl-language-support, sticky-post, translation-ready
+Text Domain: lms-education-university
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+LMS Education University WordPress Theme has been created by misbahwp(misbahwp.com), 2021.
+LMS Education University WordPress Theme is released under the terms of GNU GPL
+*/
+
+.register-top,#main-menu ul.children li a:hover, #main-menu ul.sub-menu li a:hover,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce a.added_to_cart,.searchform input[type=submit],.sidebar-area .tagcloud a:hover,.comment-reply a,.comment-respond input#submit,nav.woocommerce-MyAccount-navigation ul li,.menu-toggle, .dropdown-toggle, button.close-menu,.slider-btn a,.pagination .nav-links a:hover, .pagination .nav-links a:focus, .pagination .nav-links span.current, .lms-education-pagination span.current, .lms-education-pagination span.current:hover, .lms-education-pagination span.current:focus, .lms-education-pagination a span:hover, .lms-education-pagination a span:focus, .wp-block-button__link {
+	background: #ffb606;
+}
+
+.wp-block-button__link{
+	background: #ffb606 !important;
+}
+
+#main-menu a:hover, #main-menu ul li a:hover, #main-menu li:hover > a, #main-menu a:focus, #main-menu ul li a:focus, #main-menu li.focus > a, #main-menu li:focus > a, #main-menu ul li.current-menu-item > a, #main-menu ul li.current_page_item > a, #main-menu ul li.current-menu-parent > a, #main-menu ul li.current_page_ancestor > a, #main-menu ul li.current-menu-ancestor > a,.post-meta i,a:hover, a:focus,.courses-info strong,.courses-box-content h3 a,.social-links a:hover, .top-header p,.slider h3.post-title a{
+	color: #ffb606;
+}
+
+#courses hr,.slider .owl-carousel button.owl-dot.active,.content_inner_box hr{
+	border-color: #ffb606;
+}
+
+.searchform input[type=submit]:hover, .searchform input[type=submit]:focus,.header, footer,.woocommerce ul.products li.product .onsale, .woocommerce span.onsale,.comment-reply a:hover,nav.woocommerce-MyAccount-navigation ul li:hover,.slider-btn a:hover,.woocommerce a.button:hover, .woocommerce a.added_to_cart:hover{
+	background: #222222;
+}
+
+a,h1, h2, h3, h4, h5, h6,.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price,.blog_inner_box h3.post-title a{
+	color: #222222;
+}
+
+.entry-audio audio {
+    width: 100%;
+}
+
+.sidebar-area h4.title{
+	border-color: #ffb606;
+	background: #222222;
+}
+
+.courses-box-content{
+	background: rgb(34 34 34 / 90%);
+}
+
+.lp-archive-courses .course-summary .course-summary-content .course-detail-info{
+	background: #222222 !important;
+}
+
+#checkout-payment #checkout-order-action button, .learnpress-page .lp-button, .learnpress-page #lp-button{
+	background: #ffb606 !important;;
+}
+
+.page-template-frontpage .header-box {
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+}
+
+.page-template-frontpage .header,.page-template-frontpage .top-header{
+	background: transparent;
+}
+
+.content_inner_box {
+    left: 55%;
+    right: 10%;
+    text-align: right;
+}
+
+.content_inner_box hr {
+    border-top: 3px solid #ffb606;
+    display: inline-block;
+}
+
+.blog_box {
+    background: #000000;
+}
+
+.blog_box img {
+    opacity: 0.6;
+}
+
+.blog_box p{
+	color: #fff;
+}
+
+.slider-btn a {
+    padding: 12px 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.slider-btn {
+    margin: 25px 0;
+}
+
+.scroll-up a:hover{
+	background: #222222;
+	color:#fff;
+}
+.scroll-up a {
+	background: #ffb606;
+	color:#ffffff;
+}
+
+.sh2 {
+  border-color: transparent  transparent #ffb606 transparent ;
+}
+
+#description h3 {
+    font-size: 18px !important;
+}
+
+.woocommerce a.added_to_cart {
+    padding: 0.618em 2.2em;
+ }
+
+ footer .sidebar-area h4.title {
+     border-color: #222222;
+ }
+ .fixed-header{
+	 background: #222222;
+ }
+ .admin-bar .fixed-header{
+	 background: #222222;
+	 margin-top: 32px;
+ }
+
+ .wp-block-woocommerce-cart .wc-block-cart__submit-button, .wc-block-components-checkout-place-order-button, .wc-block-components-totals-coupon__button{
+  background: #ffb606;
+  color: #fff !important;
+}
+.wp-block-woocommerce-cart .wc-block-cart__submit-button:hover, .wc-block-components-checkout-place-order-button:hover{
+  border: 2px solid #ffb606;
+  background: #ffb606;
+  color: #fff !important;
+}
+
+.sidebar-area h4.title,
+.sidebar-area h1.wp-block-heading,
+.sidebar-area h2.wp-block-heading,
+.sidebar-area h3.wp-block-heading,
+.sidebar-area h4.wp-block-heading,
+.sidebar-area h5.wp-block-heading,
+.sidebar-area h6.wp-block-heading,
+.sidebar-area .wp-block-search__label {
+    padding: 20px 15px;
+    color: #fff;
+    font-size: 22px;
+    background: #ffb606;
+    border-left: solid 5px #1e1f1f;
+}
+footer .wp-block-search__label,
+footer .sidebar-area h1.wp-block-heading,
+footer .sidebar-area h2.wp-block-heading,
+footer .sidebar-area h3.wp-block-heading,
+footer .sidebar-area h4.wp-block-heading,
+footer .sidebar-area h5.wp-block-heading,
+footer .sidebar-area h6.wp-block-heading{
+	background: none !important;
+	border-left: none !important; 
+}
+footer .sidebar-area h4.title{
+	padding: 0px;
+    background: unset;
+    border-left: unset;
+}
+footer .sidebar-area form{
+	padding: 0px;
+}
+.sidebar-area .wp-block-search__button, p.wp-block-tag-cloud a {
+    background: #ffb606;
+}
+a.cart-customlocation{
+	position: relative;
+}
+a.cart-customlocation p.cart-item-box {
+    top: -70%;
+    left: 96%;
+}
+.content_inner_box h5{
+	color: #fff !important;
+}
+.content_inner_box hr{
+	left: 0%;
+	opacity: 1;
+}
+.social-links a, .top-header span,.header-search .open-search-form i, a.cart-customlocation i{
+	color: #ffb606;
+}
+.wc-block-components-button:not(.is-link) {
+    padding: 10px !important;
+}
+.bread_crumb span, .bread_crumb a:hover{
+	color: #ffb606;
+}
+
+/*------------------*/
+
+.triangle35b:nth-child(1) {
+  --angle:0deg;
+  background:#ffb606;
+  animation-delay:0.4s;
+}
+.triangle35b:nth-child(2) {
+  --angle:90deg;
+  background:#fff;
+  animation-delay:0.2s;
+}
+.triangle35b:nth-child(3) {
+  --angle:180deg;
+  background:#ffb606;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px){
+	.menu-toggle, .dropdown-toggle, button.close-menu,.header i.fa.fa-search, .header i.fas.fa-shopping-cart {
+    	background: #ffb606 !important;
+	}
+
+	.post-title a{
+		font-size: 25px !important;
+	}
+	.slider-btn a {
+    font-size: 17px !important;
+	}
+	.content_inner_box p,.content_inner_box hr {
+    	display: none;
+	}
+	span.dashicons.dashicons-dashicons.dashicons-phone, span.dashicons.dashicons-dashicons.dashicons-email {
+    margin-top: 6px;
+}
+.top-head {
+    margin-top: 41px;
+}
+}
+
+@media screen and (min-width: 320px) and (max-width: 999px){
+	.page-template-frontpage .header-box {
+	    position: static;
+	}
+	.page-template-frontpage .header{
+		background: #222222;
+	}
+	.page-template-frontpage .top-header {
+	    background: #0c0909;
+	}
+}
+
+#courses hr{
+	opacity: 1;
+}
+
+header.woocommerce-Address-title.title a {
+    background: #ffb606;
+}
