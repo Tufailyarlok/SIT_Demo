@@ -1,1 +1,0 @@
-<a href="<?php echo esc_url(FPSML_UPGRADE_LINK); ?>" target="_blank"><img class="upgrade-image" src="<?php echo FPSML_URL . '/assets/images/fpsm-backend-banner-light-hr-btn.png'; ?>" /></a>
